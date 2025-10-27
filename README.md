@@ -27,7 +27,7 @@ Tech Stack
 	•	TailwindCSS for styling
 	•	Vite for fast dev environment
 	•	Vitest + React Testing Library for automated tests
-
+ 
 ---------------------------------------------------------------------------------------------------------------------
 
 Design Choices
